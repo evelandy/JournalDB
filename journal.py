@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+JournalDB 
+September 7, 2018
+Created by: William Griffin
+"""
 from collections import OrderedDict
 import datetime, sys, os
 
