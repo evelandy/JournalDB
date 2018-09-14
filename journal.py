@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""
-JournalDB 
-September 7, 2018
-Created by: William Griffin
+"""evelandy/W.G.
+Sept. 07 2018 7:16pm
+JournalDB
+Python36-32
+Uses Sqlite3 and Python3 to enter/view/delete data
 """
 from collections import OrderedDict
 import datetime, sys, os
